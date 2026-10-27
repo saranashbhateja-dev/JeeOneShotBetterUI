@@ -1,0 +1,57 @@
+name: Build JEE OneShot OS APK
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v4
+      - name: Install Android API 36 platform and build tools
+        run: |
+          yes | sdkmanager --licenses >/dev/null
+          sdkmanager "platform-tools" "platforms;android-36" "build-tools;36.0.0"
+      - name: Install Capacitor dependencies
+        run: |
+          set -euo pipefail
+          npm install --no-audit --no-fund --no-save \
+            '@capacitor/core@^8' '@capacitor/cli@^8' '@capacitor/android@^8'
+          npm ls @capacitor/core @capacitor/cli @capacitor/android
+      - name: Validate app files and prepare mobile assets
+        run: |
+          set -euo pipefail
+          for file in index.html app.js one-shots.json capacitor.config.json; do test -s "$file"; done
+          node -e "JSON.parse(require('node:fs').readFileSync('one-shots.json','utf8'))"
+          node -e "JSON.parse(require('node:fs').readFileSync('capacitor.config.json','utf8'))"
+          node scripts/prepare-mobile.js
+      - name: Create Android project
+        run: npx --no-install cap add android
+      - name: Sync web assets
+        run: npx --no-install cap sync android
+      - name: Build debug APK
+        working-directory: android
+        run: ./gradlew assembleDebug --no-daemon
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: JEE-OneShot-OS-4.0.0-debug-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
