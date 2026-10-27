@@ -1,0 +1,5 @@
+JEE OneShot OS
+Version: 4.0.0
+Plan start: 2026-10-13
+Chapters: 115 (Physics 43, Chemistry 37, Maths 35)
+Workflow: Lecture + Question practice only; no revision and no tests

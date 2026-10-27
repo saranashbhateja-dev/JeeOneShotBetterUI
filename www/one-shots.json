@@ -1,0 +1,1071 @@
+{
+  "version": 4,
+  "product": "JEE OneShot OS",
+  "planStart": "2026-10-13",
+  "rotation": [
+    "physics",
+    "chemistry",
+    "maths"
+  ],
+  "subjects": [
+    {
+      "id": "physics",
+      "name": "Physics",
+      "color": "#69a8ff",
+      "custom": false,
+      "chapters": [
+        {
+          "id": "physics-01",
+          "name": "Basic Mathematics",
+          "url": "https://www.youtube.com/watch?v=a9EAKHvqAy0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-02",
+          "name": "Vector",
+          "url": "https://www.youtube.com/watch?v=FoJ42bUedYM",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-03",
+          "name": "Units, Dimension and Measurement",
+          "url": "https://www.youtube.com/watch?v=OY7k5nZNbTA",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-04",
+          "name": "Motion in a Straight Line",
+          "url": "https://www.youtube.com/watch?v=gQms8pI1KP0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-05",
+          "name": "Motion in a Plane",
+          "url": "https://www.youtube.com/watch?v=b7_TiY1JXzs",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-06",
+          "name": "Laws of Motion",
+          "url": "https://www.youtube.com/watch?v=7ob4PtmHZEQ",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-07",
+          "name": "Friction",
+          "url": "https://www.youtube.com/watch?v=suZzNZeutVE",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-08",
+          "name": "Work, Energy and Power",
+          "url": "https://www.youtube.com/watch?v=8GCv5SAOWp0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-09",
+          "name": "Circular Motion",
+          "url": "https://www.youtube.com/watch?v=d1gScDatVc0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-10",
+          "name": "Centre of Mass, Momentum and Collision",
+          "url": "https://www.youtube.com/watch?v=xdP4dOa9GN0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-11",
+          "name": "Rotational Motion (Part 1)",
+          "url": "https://www.youtube.com/watch?v=9OUHePe1nXs",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-12",
+          "name": "Rotational Motion (Part 2)",
+          "url": "https://www.youtube.com/watch?v=0BvN0yk-SYU",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-13",
+          "name": "Gravitation",
+          "url": "https://www.youtube.com/watch?v=2jfFyNefgxg",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-14",
+          "name": "Solid",
+          "url": "https://www.youtube.com/watch?v=5ILswq2DH2U",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-15",
+          "name": "Fluids (Part 1)",
+          "url": "https://www.youtube.com/watch?v=0svSSlBi0M0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-16",
+          "name": "Fluids (Part 2)",
+          "url": "https://www.youtube.com/watch?v=la5I41FNDMA",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-17",
+          "name": "Thermal Properties of Matter",
+          "url": "https://www.youtube.com/watch?v=9VBYO4it3ik",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-18",
+          "name": "Thermodynamics",
+          "url": "https://www.youtube.com/watch?v=rqD3aSV98hg",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-19",
+          "name": "Heat Transfer and Kinetic Theory of Gases",
+          "url": "https://www.youtube.com/watch?v=INFz1ztreI4",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-20",
+          "name": "Simple Harmonic Motion",
+          "url": "https://www.youtube.com/watch?v=KcM-79DVfAc",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-21",
+          "name": "Wave Motion",
+          "url": "https://www.youtube.com/watch?v=853QJObBo74",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-22",
+          "name": "Sound and Doppler Effect",
+          "url": "https://www.youtube.com/watch?v=azKdNEaNzBM",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-23",
+          "name": "Electric Charges and Fields",
+          "url": "https://www.youtube.com/watch?v=GLEZZdGwuXU",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-24",
+          "name": "Electric Potential, Dipole & Conductor",
+          "url": "https://www.youtube.com/watch?v=sGb3VLDvNRU",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-25",
+          "name": "Capacitor",
+          "url": "https://www.youtube.com/watch?v=EJJGEpGFzQs",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-26",
+          "name": "Current Electricity",
+          "url": "https://www.youtube.com/watch?v=qkay_HDfz4Q",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-27",
+          "name": "Electrical Instruments and RC Circuits",
+          "url": "https://www.youtube.com/watch?v=BNqf4IS6SzE",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-28",
+          "name": "Moving Charges and Magnetism",
+          "url": "https://www.youtube.com/watch?v=l6-wkUvKh5k",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-29",
+          "name": "Magnetic Effect of Current and Magnetism and Matter",
+          "url": "https://www.youtube.com/watch?v=RQ001gI3iA0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-30",
+          "name": "Electromagnetic Induction",
+          "url": "https://www.youtube.com/watch?v=GZCKTuptkJs",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-31",
+          "name": "Inductors, LR and LC circuits",
+          "url": "https://www.youtube.com/watch?v=y-Thv16CGt0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-32",
+          "name": "Alternating Current",
+          "url": "https://www.youtube.com/watch?v=FImh-a0673s",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-33",
+          "name": "Electromagnetic Waves and Communication",
+          "url": "https://www.youtube.com/watch?v=sp7w7-Yb3kQ",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-34",
+          "name": "Ray Optics",
+          "url": "https://www.youtube.com/watch?v=72T8RfBU0ME",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-35",
+          "name": "Instruments & Optical Instrument",
+          "url": "https://www.youtube.com/watch?v=Yzen_RY4L6g",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-36",
+          "name": "Wave Optics",
+          "url": "https://www.youtube.com/watch?v=3h3OexznsA0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-37",
+          "name": "Modern Physics (Part 1)",
+          "url": "https://www.youtube.com/watch?v=P3YYVi2LbPY",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-38",
+          "name": "Modern Physics (Part 2)",
+          "url": "https://www.youtube.com/watch?v=yfwy_nQCTKU",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-39",
+          "name": "Modern Physics (Part 3)",
+          "url": "https://www.youtube.com/watch?v=5Y8MrD-47YI",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-40",
+          "name": "Modern Physics (Part 4)",
+          "url": "https://www.youtube.com/watch?v=hAX9fXjXtxk",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-41",
+          "name": "Semiconductors (Part 1)",
+          "url": "https://www.youtube.com/watch?v=Z-VWkjyTN_w",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-42",
+          "name": "Semiconductors (Part 2)",
+          "url": "https://www.youtube.com/watch?v=LvYeIgMmHc0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "physics-43",
+          "name": "Communication Systems",
+          "url": "https://www.youtube.com/watch?v=OSt2Dqgv0eA",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        }
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "color": "#55d6a2",
+      "custom": false,
+      "chapters": [
+        {
+          "id": "chemistry-01",
+          "name": "Mole Concept",
+          "url": "https://www.youtube.com/watch?v=FhSsPdlGP_g",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-02",
+          "name": "Atomic Structure",
+          "url": "https://www.youtube.com/watch?v=wzDgdkFFYlc",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-03",
+          "name": "Periodic Classification",
+          "url": "https://www.youtube.com/watch?v=6M3HRnkORDo",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-04",
+          "name": "Chemical Bonding",
+          "url": "https://www.youtube.com/watch?v=ZkJh3KlPTVo",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-05",
+          "name": "Redox Reactions",
+          "url": "https://www.youtube.com/watch?v=8oypjDXAXZc",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-06",
+          "name": "Hydrogen",
+          "url": "https://www.youtube.com/watch?v=V7ykQ5yiik0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-07",
+          "name": "IUPAC Nomenclature",
+          "url": "https://www.youtube.com/watch?v=t4qcUocjQiE",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-08",
+          "name": "General Organic Chemistry",
+          "url": "https://www.youtube.com/watch?v=HNRXUAvbkTY",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-09",
+          "name": "Isomerism",
+          "url": "https://www.youtube.com/watch?v=mRHa2Ww-c9Q",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-10",
+          "name": "s Block",
+          "url": "https://www.youtube.com/watch?v=aU6MPFdyjmo",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-11",
+          "name": "Hydrocarbons",
+          "url": "https://www.youtube.com/watch?v=7jA1fFPT5Io",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-12",
+          "name": "Aromatic Hydrocarbons",
+          "url": "https://www.youtube.com/watch?v=N3heaHfdVcY",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-13",
+          "name": "Gaseous State",
+          "url": "https://www.youtube.com/watch?v=aYWukqgiIYI",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-14",
+          "name": "Thermodynamics",
+          "url": "https://www.youtube.com/watch?v=NwCmoh7Vd9g",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-15",
+          "name": "Chemical Equilibrium",
+          "url": "https://www.youtube.com/watch?v=gcPWM9JVE0Q",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-16",
+          "name": "Ionic Equilibrium",
+          "url": "https://www.youtube.com/watch?v=IF7DGTWCK_c",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-17",
+          "name": "Solid State",
+          "url": "https://www.youtube.com/watch?v=EpMsJhL3ocY",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-18",
+          "name": "p Block (Part 1)",
+          "url": "https://www.youtube.com/watch?v=rv5S7g_EPRo",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-19",
+          "name": "Solutions",
+          "url": "https://www.youtube.com/watch?v=f6ENSghG7T4",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-20",
+          "name": "Electrochemistry",
+          "url": "https://www.youtube.com/watch?v=GplPceRaMi0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-21",
+          "name": "Metallurgy",
+          "url": "https://www.youtube.com/watch?v=l7LmAojpivA",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-22",
+          "name": "Chemical Kinetics",
+          "url": "https://www.youtube.com/watch?v=kwPNxC9AgZA",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-23",
+          "name": "Surface Chemistry",
+          "url": "https://www.youtube.com/watch?v=0u8U62K7UPQ",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-24",
+          "name": "Haloalkanes & Haloarenes",
+          "url": "https://www.youtube.com/watch?v=UVWwxdh7o6Q",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-25",
+          "name": "Alcohols, Phenols & Ethers",
+          "url": "https://www.youtube.com/watch?v=mBOFCVb3tSM",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-26",
+          "name": "p Block (Part 2)",
+          "url": "https://www.youtube.com/watch?v=hCJVRDaAnig",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-27",
+          "name": "Aldehydes, Ketones & Carboxylic Acids",
+          "url": "https://www.youtube.com/watch?v=S0bcJDrZB64",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-28",
+          "name": "Amines",
+          "url": "https://www.youtube.com/watch?v=0tqAQfGr2IA",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-29",
+          "name": "Practical Organic Chemistry",
+          "url": "https://www.youtube.com/watch?v=okCmFv1-iwk",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-30",
+          "name": "p Block (Part 3)",
+          "url": "https://www.youtube.com/watch?v=3nPuj7aXORk",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-31",
+          "name": "Biomolecules",
+          "url": "https://www.youtube.com/watch?v=xuKRxlEcJvM",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-32",
+          "name": "D & F Block",
+          "url": "https://www.youtube.com/watch?v=SjILQ6cX_Vo",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-33",
+          "name": "Coordination Compounds",
+          "url": "https://www.youtube.com/watch?v=DSJQP2o__ao",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-34",
+          "name": "Salt Analysis",
+          "url": "https://www.youtube.com/watch?v=8rRnn4ECwXI",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-35",
+          "name": "Polymers",
+          "url": "https://www.youtube.com/watch?v=k5g6LEaBOe0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-36",
+          "name": "Chemistry in Everyday Life",
+          "url": "https://www.youtube.com/watch?v=_2dOz0DxhYk",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "chemistry-37",
+          "name": "Environmental Chemistry",
+          "url": "https://www.youtube.com/watch?v=xOaYbVC_i4c",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        }
+      ]
+    },
+    {
+      "id": "maths",
+      "name": "Maths",
+      "color": "#f7a2c8",
+      "custom": false,
+      "chapters": [
+        {
+          "id": "maths-01",
+          "name": "Basic Mathematics",
+          "url": "https://www.youtube.com/watch?v=gP-ai7KzuSg",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-02",
+          "name": "Sets and Relations",
+          "url": "https://www.youtube.com/watch?v=0KCLAfpZ2zY",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-03",
+          "name": "Quadratic Equations",
+          "url": "https://www.youtube.com/watch?v=WshR0IzxWzU",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-04",
+          "name": "Sequence and Series",
+          "url": "https://www.youtube.com/watch?v=wDzTxpOG9VI",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-05",
+          "name": "Trigonometric Functions",
+          "url": "https://www.youtube.com/watch?v=ntMA79-Xkxk",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-06",
+          "name": "Trigonometric Equations",
+          "url": "https://www.youtube.com/watch?v=Ms8tRkJgOiY",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-07",
+          "name": "Solutions of Triangles",
+          "url": "https://www.youtube.com/watch?v=OJxqv6duMic",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-08",
+          "name": "Complex Numbers",
+          "url": "https://www.youtube.com/watch?v=Jk9uN_XozC0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-09",
+          "name": "Permutations and Combinations",
+          "url": "https://www.youtube.com/watch?v=K48fN_0TPBA",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-10",
+          "name": "Binomial Theorem",
+          "url": "https://www.youtube.com/watch?v=PhD8oL6dPOY",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-11",
+          "name": "Straight Lines",
+          "url": "https://www.youtube.com/watch?v=66QzVoimRUM",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-12",
+          "name": "Circles",
+          "url": "https://www.youtube.com/watch?v=J1Wv5VLvtXk",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-13",
+          "name": "Parabola",
+          "url": "https://www.youtube.com/watch?v=LsYvJc56yag",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-14",
+          "name": "Ellipse",
+          "url": "https://www.youtube.com/watch?v=8asqPexzYzc",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-15",
+          "name": "Hyperbola",
+          "url": "https://www.youtube.com/watch?v=Es6IoDqItuc",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-16",
+          "name": "Relations and Functions",
+          "url": "https://www.youtube.com/watch?v=__XBcqZl5oQ",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-17",
+          "name": "Functions",
+          "url": "https://www.youtube.com/watch?v=qgk0a-W0LQ4",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-18",
+          "name": "Inverse Trigonometric Functions",
+          "url": "https://www.youtube.com/watch?v=EaofiSDn8MM",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-19",
+          "name": "Limits",
+          "url": "https://www.youtube.com/watch?v=2kWgjIYNeCg",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-20",
+          "name": "Continuity",
+          "url": "https://www.youtube.com/watch?v=dvzXDXDagaQ",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-21",
+          "name": "Differentiability",
+          "url": "https://www.youtube.com/watch?v=hNFQLLgocCU",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-22",
+          "name": "Methods of Differentiation",
+          "url": "https://www.youtube.com/watch?v=gf0-OEvLHG4",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-23",
+          "name": "Applications of Derivatives",
+          "url": "https://www.youtube.com/watch?v=jVeCha6iI84",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-24",
+          "name": "Indefinite Integration",
+          "url": "https://www.youtube.com/watch?v=7dVDuyI_8FA",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-25",
+          "name": "Definite Integration",
+          "url": "https://www.youtube.com/watch?v=ISth4dTVbWY",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-26",
+          "name": "Application of Integrals",
+          "url": "https://www.youtube.com/watch?v=AT9xxLnTzWA",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-27",
+          "name": "Differential Equations",
+          "url": "https://www.youtube.com/watch?v=YQ1Ix2FHlm0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-28",
+          "name": "Determinants",
+          "url": "https://www.youtube.com/watch?v=cPIPakSsSFI",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-29",
+          "name": "Matrices",
+          "url": "https://www.youtube.com/watch?v=U0JLQdDT-j4",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-30",
+          "name": "Vectors",
+          "url": "https://www.youtube.com/watch?v=FsTlbTQyuJ0",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-31",
+          "name": "Three-Dimensional Geometry",
+          "url": "https://www.youtube.com/watch?v=7v2vYv6Pl7g",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-32",
+          "name": "Probability",
+          "url": "https://www.youtube.com/watch?v=lWqcibMwKtk",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-33",
+          "name": "Statistics",
+          "url": "https://www.youtube.com/watch?v=mWa7eSpT6kg",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-34",
+          "name": "Mathematical Reasoning",
+          "url": "https://www.youtube.com/watch?v=zbxVS7Y5NZc",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        },
+        {
+          "id": "maths-35",
+          "name": "Linear Programming",
+          "url": "https://www.youtube.com/watch?v=6lGUchGmkbs",
+          "lectureAt": "",
+          "practiceAt": "",
+          "notes": "",
+          "custom": false
+        }
+      ]
+    }
+  ]
+}
